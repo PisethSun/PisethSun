@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on HTML, CSS, Javascript and PHP. 
 
 # My Skills
 - HTML
