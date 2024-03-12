@@ -1,7 +1,8 @@
 <h1>Hi, I'm Piseth, an <a href="https://www.linkedin.com/in/piseth-sun-44bb771b3/" target="_blank">IT Enthusiast</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
-- [osTicket: Prerequisites and Installation Example ](https://github.com/PisethSun/osTicket) 
+<a href="https://github.com/PisethSun/osTicket" target="_blank">osTicket: Prerequisites and Installation Example</a>
+
 
 
 <h2>🤳Connect with me:</h2>
