@@ -1,6 +1,8 @@
 <h1>Hi, I'm Piseth, an <a href="https://www.linkedin.com/in/piseth-sun-44bb771b3/" target="_blank">IT Enthusiast</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
+- <b>osTicket -  - [osTicket: Prerequisites and Installation](https://github.com/PisethSun/osTicket) </b>
+
 
 <h2>🤳Connect with me:</h2>
 
