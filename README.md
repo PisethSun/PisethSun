@@ -2,7 +2,9 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 <a href="https://github.com/PisethSun/osTicket" target="_blank">osTicket: Prerequisites and Installation Example</a>
+
 <a href="https://github.com/PisethSun/Post-Installation-Setp" target="_blank">osTicket: Post-Installation Setup</a>
+
 <a href="https://github.com/PisethSun/Tickets-and-Ticket-Lifecycle" target="_blank">osTicket: Tickets and Ticket Lifecycle</a>
 
 
