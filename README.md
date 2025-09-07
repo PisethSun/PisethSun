@@ -17,6 +17,14 @@
 
 
 
+<h2>👨‍💻 Information Technology Projects:</h2>
+<a href="https://nailspahelen.online/" target="_blank">Final Capstone Project</a>
+<ul>
+  <li>PHP</li>
+  <li>MySQL</li>
+  <li>Domain Hosting</li>
+  <li>Front-End Development</li>
+</ul>
 
 
 <br>
