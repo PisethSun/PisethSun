@@ -23,7 +23,7 @@
   <li>PHP</li>
   <li>MySQL</li>
   <li>Domain Hosting</li>
-  <li>Front-End Development</li>
+  <li>Front-End Development/Back-end</li>
 </ul>
 
 
