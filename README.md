@@ -4,7 +4,7 @@
 
 <ul>
   <li>NorthShore Community College | Associate Degree in Information Technology & Science</li>
-  <li>NorthShore Community College | Bachelor Majoring in  Information Technology & Minor in Computer Science</li>
+  <li>Salem State University | Bachelor Majoring in  Information Technology & Minor in Computer Science</li>
 </ul>
 <br>
 
