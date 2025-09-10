@@ -26,6 +26,10 @@
   <li>Front-End Development/Back-end</li>
 </ul>
 
+<h2>Mini-Projects :</h2>
+<a href="https://basketball-solo.netlify.app/" target="_blank">Basketball Scoreboard</a>
+
+
 
 <br>
 <h2>🤳Connect with me:</h2>
